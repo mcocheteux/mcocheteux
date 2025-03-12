@@ -13,7 +13,7 @@ I'm a **PhD Candidate in Computer Vision** specializing in **Deep Learning**, **
 
 - **Uncertainty-Aware Online Extrinsic Calibration: A Conformal Prediction Approach**  
   *WACV 2025*  
-  [Read more](https://arxiv.org/pdf/2501.06878)
+  [Read more](https://openaccess.thecvf.com/content/WACV2025/papers/Cocheteux_Uncertainty-Aware_Online_Extrinsic_Calibration_A_Conformal_Prediction_Approach_WACV_2025_paper.pdf)
 
 - **MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration**  
   *CVPR 2024 (Workshop on Autonomous Driving)*  
