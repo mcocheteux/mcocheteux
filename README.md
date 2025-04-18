@@ -1,10 +1,10 @@
 # Hello, I'm Mathieu Cocheteux! 👋
 
-I'm a **PhD Candidate in Computer Vision** specializing in **Deep Learning**, **Sensor Calibration**, and **Perception** for **Autonomous Vehicles**. My research focuses on developing deep learning solutions for automatic sensor calibration and sensor fusion, enhancing the robustness of multi-sensor systems in dynamic environments.
+I'm an engineer with a **PhD in Computer Vision** specializing in **Deep Learning**, **Sensor Calibration**, and **Perception**. My research focuses on developing deep learning solutions for automatic sensor calibration and sensor fusion, enhancing the robustness of multi-sensor systems in dynamic environments.
 
 - 📍 **Location:** France
 - 🎓 **Affiliation:** Université de technologie de Compiègne (UTC) & CNRS, Heudiasyc
-- 📅 **Available:** Seeking full-time industry positions starting **April 2025**, particularly in: USA , Switzerland , Singapore , Canada , France (open to other locations as well)
+- 📅 **Available:** Seeking full-time industry positions, particularly in: USA , Switzerland , Singapore , Canada , France (open to other locations as well)
 - 🎓 **PhD Thesis:** "Deep Learning for Automatic Multimodal Sensor Calibration"
 - ⬇️ **[Download my Resume](https://www.cocheteux.eu/assets/resume.pdf)**
 ---
